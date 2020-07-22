@@ -6,10 +6,19 @@
     <description>Recent content in themes on AlienTux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alientux.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disque Primer Tutorial</title>
+      <link>https://alientux.github.io/tutorial/primertuto/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alientux.github.io/tutorial/primertuto/</guid>
+      <description>Este es mi primer tuto&amp;hellip; Mentira, sólo quería probar si esto servía bien :D</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
