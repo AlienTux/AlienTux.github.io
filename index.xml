@@ -13,10 +13,10 @@
     
     <item>
       <title>Acerca de mí</title>
-      <link>https://alientux.github.io/about/</link>
+      <link>https://alientux.github.io/acercademi/</link>
       <pubDate>Wed, 22 Jul 2020 19:03:12 -0600</pubDate>
       
-      <guid>https://alientux.github.io/about/</guid>
+      <guid>https://alientux.github.io/acercademi/</guid>
       <description>Mi nombre es Kurt y soy un ingeniero mecatrónico y maker (*•̀ᴗ•́*)و ̑̑</description>
     </item>
     
@@ -91,6 +91,15 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://alientux.github.io/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Acerca de mí</title>
+      <link>https://alientux.github.io/about_old/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alientux.github.io/about_old/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
     </item>
     
   </channel>
