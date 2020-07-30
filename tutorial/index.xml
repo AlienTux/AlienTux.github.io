@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on AlienTux</title>
+    <link>https://alientux.github.io/tutorial/</link>
+    <description>Recent content in Tutorials on AlienTux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alientux.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disque Primer Tutorial</title>
+      <link>https://alientux.github.io/tutorial/primertuto/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alientux.github.io/tutorial/primertuto/</guid>
+      <description>Este es mi primer tuto&amp;hellip; Mentira, sólo quería probar si esto servía bien :D</description>
+    </item>
+    
+  </channel>
+</rss>
